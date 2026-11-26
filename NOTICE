@@ -1,0 +1,11 @@
+SiegelAllCharacters (standalone package)
+Copyright 2026 Sky (GitHub: ChironTheCentaur)
+
+The original work in this package (OAI/RhSiegel/, SiegelAllCharacters.lean, check.py, AxiomAudit.lean, controls/) is
+licensed under the Apache License, Version 2.0 (see LICENSE).
+
+OAI/NumberTheory/PrimeGaps/ is a subset of openai/math (https://github.com/openai/math, commit
+fd4aeeb2ee4fc729c18d98444fed42fd0529eeeb), Apache License, Version 2.0 (LICENSE.openai-math), copied unchanged. It is
+not relicensed.
+
+Mathlib and the Lean toolchain packages are fetched at build time and are not included.

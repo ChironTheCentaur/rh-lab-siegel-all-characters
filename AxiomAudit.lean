@@ -1,0 +1,15 @@
+import SiegelAllCharacters
+
+#print axioms RhSiegel.LFunction_one_real_pos
+#print axioms RhSiegel.norm_LFunction_one_eq_re
+#print axioms RhSiegel.log_lower
+#print axioms RhSiegel.log_upper
+#print axioms RhSiegel.siegel_log_L_one
+#print axioms RhSiegel.siegel_lower
+#print axioms OAI.LargePrimeGaps.quadratic_siegel
+#print axioms OAI.LargePrimeGaps.LFunction_norm_small_power
+#print axioms RhSiegel.exists_siegel_constant
+#print axioms RhSiegel.norm_LFunction_one_ge_primitive
+#print axioms RhSiegel.norm_one_sub_euler_factor_ge
+#print axioms RhSiegel.prod_primeFactors_one_sub_inv_ge
+#print axioms OAI.LargePrimeGaps.nonprincipal_line_lower
