@@ -61,3 +61,5 @@ It runs `lake exe cache get` and `lake build` (every module), then:
 * `MANIFEST.sha256`: every checked file hashes to the shipped bytes.
 
 It writes `CHECK_RESULT.json` and exits 0 only on PASS.
+
+On Windows, clone with `git clone -c core.autocrlf=false ...` when checking a pinned older commit; `main` carries a .gitattributes that keeps exact bytes.
